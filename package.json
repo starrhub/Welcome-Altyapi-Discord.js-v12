@@ -1,0 +1,26 @@
+{
+  "name": "welcome-bot-altyapi",
+  "version": "1.0.0",
+  "description": "Welcome Bot Altyapısı - Discord.js v14",
+  "main": "starr.js",
+  "scripts": {
+    "start": "node starr.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "welcome bot altyapı"
+  ],
+  "author": "Starr",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "@discordjs/voice": "^0.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=16.x"
+  }
+}

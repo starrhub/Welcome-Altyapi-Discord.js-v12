@@ -1,0 +1,22 @@
+{
+    "tokens": [
+        {
+            "token": "BOT_TOKEN1",
+            "sesId": "SES_ID",
+            "durum": "DURUM_YAZISI",
+            "status": "idle"
+        },
+        {
+            "token": "BOT_TOKEN2",
+            "sesId": "SES_ID",
+            "durum": "DURUM_YAZISI",
+            "status": "online"
+        },
+        {
+            "token": "BOT_TOKEN3",
+            "sesId": "SES_ID",
+            "durum": "DURUM_YAZISI",
+            "status": "dnd"
+        }
+    ]
+}
