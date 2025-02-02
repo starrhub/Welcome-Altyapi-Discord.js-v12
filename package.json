@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/starrhub/Welcome-Altyapi-Discord.js-v14"
   },
   "engines": {
     "node": ">=16.x"
