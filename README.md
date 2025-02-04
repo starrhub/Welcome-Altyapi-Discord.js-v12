@@ -1,6 +1,6 @@
-# Welcome Bot Discord.js v14 Altyapısı
+# Welcome Bot Discord.js v12 Altyapısı
 
-Bu altyapı, Discord.js v14 kullanılarak kodlanmış bir welcome altyapısıdır.
+Bu altyapı, Discord.js v12 kullanılarak kodlanmış bir welcome altyapısıdır.
 
 ## 🔧 Kurulum
 
